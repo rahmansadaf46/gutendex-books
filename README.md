@@ -1,4 +1,4 @@
-### 📚 GutenDex Books
+# 📚 GutenDex Books
 
 A responsive React + TypeScript application that fetches and displays a list of books from the [GutenDex API](https://gutendex.com/). It features book search, filtering by genre, pagination, wishlist functionality, and detailed book pages — all styled using **vanilla CSS** and **Bootstrap**.
 
